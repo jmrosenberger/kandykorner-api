@@ -30,43 +30,67 @@
             "id": 1,
             "name": "Atomic Sucker",
             "price": "1.50",
-            "productTypeIds": 1
+            "productTypesId": 1
         },
         {
             "id": 2,
             "name": "Snickers Bar",
             "price": "1.75",
-            "productTypeIds": 2
+            "productTypesId": 2
         },
         {
             "id": 3,
             "name": "Jolly Ranchers",
             "price": "2.50",
-            "productTypeIds": 1
+            "productTypesId": 1
         },
         {
             "id": 4,
             "name": "Spearment",
             "price": "0.99",
-            "productTypeIds": 3
+            "productTypesId": 3
         },
         {
             "id": 5,
             "name": "Mountain Dew",
             "price": "1.99",
-            "productTypeIds": 4
+            "productTypesId": 4
         },
         {
             "id": 6,
             "name": "Red Bull",
             "price": "2.75",
-            "productTypeIds": 4
+            "productTypesId": 4
         },
         {
             "id": 7,
             "name": "Butterfinger",
             "price": "1.69",
-            "productTypeIds": 2
+            "productTypesId": 2
+        },
+        {
+            "id": 8,
+            "name": "Bazooka Joe",
+            "price": "0.79",
+            "productTypesId": 3
+        },
+        {
+            "id": 9,
+            "name": "Hershey Bar",
+            "price": "1.49",
+            "productTypesId": 2
+        },
+        {
+            "id": 10,
+            "name": "Cherry Coke",
+            "price": "1.99",
+            "productTypesId": 4
+        },
+        {
+            "id": 11,
+            "name": "LifeSavers",
+            "price": "1.39",
+            "productTypesId": 1
         }
     ],
     "employees": [
