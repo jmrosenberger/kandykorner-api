@@ -5,6 +5,24 @@
             "address": "97145 Joyce Lodge",
             "squareFootage": 2800,
             "handicapAccess": true
+        },
+        {
+            "id": 2,
+            "address": "90256 Alexandrine Groves",
+            "squareFootage": 3200,
+            "handicapAccess": true
+        },
+        {
+            "id": 3,
+            "address": "17789 Terry Glens",
+            "squareFootage": 2100,
+            "handicapAccess": true
+        },
+        {
+            "id": 4,
+            "address": "6070 Julio Roads",
+            "squareFootage": 2650,
+            "handicapAccess": true
         }
     ],
     "products": [
