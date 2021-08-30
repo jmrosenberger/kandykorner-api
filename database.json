@@ -30,7 +30,7 @@
             "id": 1,
             "name": "licorice",
             "price": "1.50",
-            "productTypeId": 1
+            "productTypeIds": 1
         }
     ],
     "employees": [
@@ -40,7 +40,7 @@
             "locationId": 1
         }
     ],
-    "productType": [
+    "productTypes": [
         {
             "id": 1,
             "category": "Hard Candy"
@@ -70,7 +70,7 @@
             "customerId": 1,
             "locationId": 1,
             "productId": 1,
-            "productType": 1,
+            "productTypesId": 1,
             "employeeId": 2,
             "totalSpent": "$10.00",
             "timestamp": "date / time"
