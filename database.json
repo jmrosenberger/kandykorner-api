@@ -1,0 +1,57 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "97145 Joyce Lodge",
+            "squareFootage": 2800,
+            "handicapAccess": true
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "licorice",
+            "price": "1.50",
+            "productTypeId": 1
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Angie Monahan",
+            "locationId": 1
+        }
+    ],
+    "productType": [
+        {
+            "id": 1,
+            "category": "hard candies"
+        },
+        {
+            "id": 2,
+            "category": "chocolates"
+        },
+        {
+            "id": 3,
+            "category": "gummies"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Rodney Littel"
+        }
+    ],
+    "purchases": [
+        {
+            "id": 1,
+            "customerId": 1,
+            "locationId": 1,
+            "productId": 1,
+            "productType": 1,
+            "employeeId": 2,
+            "totalSpent": "$10.00",
+            "timestamp": "date / time"
+        }
+    ]
+}
