@@ -43,15 +43,19 @@
     "productType": [
         {
             "id": 1,
-            "category": "hard candies"
+            "category": "Hard Candy"
         },
         {
             "id": 2,
-            "category": "chocolates"
+            "category": "Chocolate"
         },
         {
             "id": 3,
-            "category": "gummies"
+            "category": "Gum"
+        },
+        {
+            "id": 4,
+            "category": "Sodas"
         }
     ],
     "customers": [
